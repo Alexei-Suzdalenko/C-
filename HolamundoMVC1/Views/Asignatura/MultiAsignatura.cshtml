@@ -1,0 +1,20 @@
+@model IEnumerable<Asignatura>
+
+@{
+    ViewData["Title"] = "Informacion Asignatura";
+    Layout = "_Simple";
+}
+
+<div class="text-center">
+    <h1>Asignatura: @ViewData["Title"] </h1>
+
+    <b>Desde la vista parcial</b>
+
+    @foreach (var asignatura in Model)
+    {
+        <partial name="ObjetoEscuelaSimple" model="asignatura" />    
+    }
+
+    <i> @ViewBag.CosaDinamica </i>
+
+</div>

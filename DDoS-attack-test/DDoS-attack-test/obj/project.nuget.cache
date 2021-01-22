@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjhMH19mjwr19lgOXIn3gjJ5OgoNfV8zlQf2WF62/vnCpL0AZ0PMZV1qQ/RYC3BglYf8wxpGYE3TZUJyfz8pVA==",
+  "success": true,
+  "projectFilePath": "C:\\curso_C#\\DDoS-attack-test\\DDoS-attack-test\\DDoS-attack-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34618\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

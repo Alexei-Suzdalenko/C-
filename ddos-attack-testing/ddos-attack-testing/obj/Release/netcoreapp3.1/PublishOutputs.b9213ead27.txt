@@ -1,0 +1,5 @@
+E:\_download\ddos-attack-testing.exe
+E:\_download\ddos-attack-testing.dll
+E:\_download\ddos-attack-testing.deps.json
+E:\_download\ddos-attack-testing.runtimeconfig.json
+E:\_download\ddos-attack-testing.pdb

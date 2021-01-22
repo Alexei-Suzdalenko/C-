@@ -1,0 +1,14 @@
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.exe
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.deps.json
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.runtimeconfig.json
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.runtimeconfig.dev.json
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.dll
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\bin\Release\netcoreapp3.1\win-x64\ddos-attack-testing.pdb
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos_attack_testing.Form1.resources
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.csproj.GenerateResource.cache
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.AssemblyInfoInputs.cache
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.AssemblyInfo.cs
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.csproj.CoreCompileInputs.cache
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.dll
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.pdb
+C:\curso_C#\ddos-attack-testing\ddos-attack-testing\obj\Release\netcoreapp3.1\win-x64\ddos-attack-testing.genruntimeconfig.cache

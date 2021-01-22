@@ -1,0 +1,12 @@
+@*
+@model List<ObjetoEscuelaBase>
+*@
+
+@foreach (var objecto in Model)
+{
+    <p>
+        Nombre: @objecto.Nombre <br>
+        Id: @objecto.Id
+    </p>    
+}
+

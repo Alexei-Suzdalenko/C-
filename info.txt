@@ -1,0 +1,18 @@
+install certificate https
+    dotnet dev-certs https --trust
+
+crear una aplicacion web vacia
+    dotnet new web -o Holamundo1
+crear una aplicacion web mvc
+    dotnet new mvc -o HolamundoMVC1    
+
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+dotnet tool install -g dotnet-aspnet-codegenerator
+dotnet add package Microsoft.VisualStudio.Web.CodeGenerator.Design
+dotnet restore
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+dotnet aspnet-codegenerator controller -name AlumnoController -m Alumno -dc EscuelaContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
+
